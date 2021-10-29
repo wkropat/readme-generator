@@ -18,7 +18,7 @@ Creates a readme.md file based on a series of command line inputs.
 ## Usage
   _Instructions for use:_
   Run node index.js in the command line in the folder.
-        
+  [Live demo here](https://watch.screencastify.com/v/sPtNRWio3AjteinFmzGQ)
 ## Screenshot
 ![Screenshot](screenshot.PNG)
       
