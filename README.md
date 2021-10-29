@@ -1,8 +1,7 @@
-# Readme Generator
+# Professional Readme Generator
 ## Description
-Create a professional readme based on a series of command line inputs.
+Creates a readme.md file based on a series of command line inputs.
 ![badge](https://img.shields.io/badge/license-GNUAGPLv3-brightorange)
-
 ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -14,26 +13,27 @@ Create a professional readme based on a series of command line inputs.
 ## Installation
     
   _Instructions for installation:_
-  Requires inquirer and fs
+  Install npm packages fs and inquirer, and download all files in this repo. 
       
 ## Usage
   _Instructions for use:_
-  command line node index.js 
-
-  [Live demo here](https://watch.screencastify.com/v/3FH3jwfr2SUoyZWuaj1Q)
+  Run node index.js in the command line in the folder.
+        
+## Screenshot
+![Screenshot](screenshot.PNG)
       
 ## Contribution
   _Are contributions welcome?_
-  Yes
+  No.
       
 ## Testing
   _Instructions for testing application:_
-  N/a
+  No test available now.
       
 ## Questions
       
   _For further questions:_
-  email
+  Email
   
   _Contact Info:_
   GitHub: [wkropat](https://github.com/wkropat)
