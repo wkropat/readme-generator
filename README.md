@@ -20,7 +20,7 @@ Create a professional readme based on a series of command line inputs.
   _Instructions for use:_
   command line node index.js 
 
-  [Live demo here](https://watch.screencastify.com/v/3FH3jwfr2SUoyZWuaj1Q)
+  [Live demo here](https://watch.screencastify.com/v/sPtNRWio3AjteinFmzGQ)
       
 ## Contribution
   _Are contributions welcome?_
